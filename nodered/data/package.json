@@ -1,0 +1,15 @@
+{
+    "name": "node-red-project",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "node-red-contrib-alasql": "~2.0.1",
+        "node-red-contrib-moment": "~3.0.3",
+        "node-red-contrib-onvif": "0.0.2",
+        "node-red-contrib-ui-state-trail": "~0.3.1",
+        "node-red-dashboard": "~2.22.1",
+        "node-red-node-base64": "~0.2.1",
+        "node-red-node-rbe": "~0.2.9"
+    }
+}
